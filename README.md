@@ -23,7 +23,7 @@
     margin-top:300px;
 }
 #ins{
-    margin-right: 700px;
+    margin-right: 400px;
 }
 a{
     text-decoration:none;
