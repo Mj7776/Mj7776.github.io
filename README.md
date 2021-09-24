@@ -31,12 +31,12 @@ a{
 }
 a:hover{
     color: red;
-}
-            @media (max-width:300px){
-            #ins{
-                width: 10px;
-                }
-            }
+} 
+@media (max-width:300px){
+     #ins{
+           width: 10px;
+          }
+        }
         </style>
     </head>
     <body dir="rtl">
