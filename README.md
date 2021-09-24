@@ -1,5 +1,4 @@
-# Mj7776.github.io
-<!DOCTYPE html>
+
 <html>
     <head>
         <link type="text/css" rel="stylesheet" href="01.css"/>
