@@ -6,7 +6,7 @@
     width: 400px;
     height: 400px;
     background-image: url(01.jpg);
-    margin-right: 400px;
+    margin-right: 300px;
     padding: 0;
     border: 1px solid black;
     vertical-align: middle;
