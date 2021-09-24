@@ -3,6 +3,36 @@
 <html>
     <head>
         <link type="text/css" rel="stylesheet" href="01.css"/>
+        <style>.image{
+    width: 400px;
+    height: 400px;
+    background-image: url(01.jpg);
+    margin-right: 600px;
+    padding: 0;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+.p{
+    margin-top: -400px;
+}
+.a{
+    margin-right: 750px;
+    margin-top: 10px;
+}
+.about{
+    margin-top:300px;
+}
+#ins{
+    margin-right: 700px;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    color: red;
+}
+        </style>
     </head>
     <body dir="rtl">
         <h1>محمد جواد خزایی</h1><hr>
