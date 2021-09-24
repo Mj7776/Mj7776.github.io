@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> محمد جواد خزایی</title>
         <link type="text/css" rel="stylesheet" href="01.css"/>
     </head>
     <body dir="rtl">
