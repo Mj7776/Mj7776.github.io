@@ -10,6 +10,7 @@
     padding: 0;
     border: 1px solid black;
     vertical-align: middle;
+    margin:center;
 }
 .p{
     margin-top: -400px;
